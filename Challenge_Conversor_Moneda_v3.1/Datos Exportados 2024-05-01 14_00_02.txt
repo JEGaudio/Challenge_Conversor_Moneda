@@ -1,0 +1,3 @@
+10.0 Metro => 1000.0 Centimetro
+4500.0 CLP => 4.77 USD
+25.0 Kilometro => 27340.33 Yarda

@@ -1,0 +1,4 @@
+CLP/Peso Chileno   
+USD/Dolar Estadounidense   
+EUR/Euro   
+JPY/Yen Japones   
